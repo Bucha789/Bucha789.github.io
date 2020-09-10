@@ -18,6 +18,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: arial;
 }
 header span{
     display: inline-block;
