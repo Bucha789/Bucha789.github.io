@@ -20,14 +20,15 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     font-family: arial;
     padding: 5px;
     border: 2px;
+    flex-direction: row;
 }
 header span{
-    display: inline-block;
     padding: 10px;
-    border: 5px;
+    border: 2px;
     background-color: gray;
     font-size: 1rem;
 }
